@@ -11,7 +11,10 @@
 
  <div align="center">
 <h4> Currently studying Computer science  at <a href="https://twitter.com/1337FIL" target="_blank">@1337</a> <a href="https://www.42network.org/" target="_blank">@42 network</a>  </h4>
-   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Green binary/ymaaloum" alt="ymaaloum's 42 stats"  height="280" /></a>
+<!--    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Green binary/ymaaloum" alt="ymaaloum's 42 stats"  height="280" /></a>
+ -->
+
+   <img src="Level_42_.png"  height="280">
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="55" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
